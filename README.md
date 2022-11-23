@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Started out in business, found programming and never looked back. Currently focused on becoming the best developer I can be.
+Started out in business, finally found programming. Currently focused on becoming the best developer I can be.
 
 * 🌍  I'm based in Los Angeles
 * 🖥️  See my portfolio at [Nick's Porfolio](http://fast-plateau-92910.herokuapp.com)
