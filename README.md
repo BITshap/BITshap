@@ -7,9 +7,9 @@ Software Developer
 Started out in business, found programming and never looked back. Currently focused on becoming the best developer I can be.
 
 * 🌍  I'm based in Los Angeles
-* 🖥️  See my portfolio at [My Portfolio](http://fast-plateau-92910.herokuapp.com)
+* 🖥️  See my portfolio at [Nick's Porfolio](http://fast-plateau-92910.herokuapp.com)
 * ✉️  You can contact me at [nicholasshapoff@gmail.com](mailto:nicholasshapoff@gmail.com)
-* 🚀  I'm currently working on [the SME dev team](http://www.smelivenation.com)
+* 🚀  I'm currently working with the [SME dev team](http://www.smelivenation.com)
 * 🧠  I'm learning Data Modeling and Python
 * 🤝  I'm open to collaborating on projects that move me
 
