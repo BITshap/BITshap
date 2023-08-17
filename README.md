@@ -9,9 +9,9 @@ Started out in business, finally found programming. Currently focused on becomin
 * 🌍  I'm based in Los Angeles
 * 🖥️  See my portfolio at [Nick's Portfolio](https://nickshapoff.com)
 * ✉️  You can contact me at [nicholasshapoff@gmail.com](mailto:nicholasshapoff@gmail.com)
-* 🚀  I'm currently working with the [SME dev team](http://www.smelivenation.com)
+* 🚀  I'm currently working on a new web-app called JournalMe
 * 🧠  I'm learning MERN Stack and Python
-* 🤝  I'm open to collaborating on projects that move me
+* 🤝  I'm open to collaborating on projects that are passionate 
 
 ### Skills
 
