@@ -6,12 +6,12 @@ Software Developer
 
 Business aligned and focused on growth. Love trying new things and getting to places I never thought I could.
 
-* 🌍  I'm based in Los Angeles
-* 🖥️  See my portfolio at [Nick's Portfolio](https://nickshapoff.com)
+* 🌍  I'm based in Los Angeles, California, and have moved from Brentwood to Beverly hills, back to westwood, then to brentwood.
+* 🖥️  See my portfolio at [Nick's Portfolio](https://nickshapoff.com) - currently updating
 * ✉️  You can contact me at [nicholasshapoff@gmail.com](mailto:nicholasshapoff@gmail.com)
-* 🚀  I'm currently working on a new web-app called JournalMe
+* 🚀  I'm currently working on a new web-app called JournalMe (This was finished August 2024. Hosted on Heroku)
 * 🧠  I'm learning MERN Stack and Python
-* 🤝  I'm open to collaborating on projects that are passionate 
+* 🤝  I'm open to collaborating on exciting ideas. 
 
 ### Skills
 
