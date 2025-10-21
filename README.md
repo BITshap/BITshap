@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Started out in business, finally found programming. Currently focused on becoming the best developer I can be.
+Business aligned and focused on growth. Love trying new things and getting to places I never thought I could.
 
 * 🌍  I'm based in Los Angeles
 * 🖥️  See my portfolio at [Nick's Portfolio](https://nickshapoff.com)
